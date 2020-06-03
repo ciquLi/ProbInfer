@@ -1,7 +1,7 @@
 # ProbInfer
 Probability-Based AS Path Inference From Multigraph Perspective
 
-1：
+1
 down_bgp.py：DownLoad BGP data
 
 2
