@@ -9,7 +9,7 @@ import data_preprocessing
 import get_ground_path
 import get_validate_data
 import multigraph_infer
-import predict
+#import predict
 
 
 
@@ -24,4 +24,4 @@ if __name__=="__main__":
         #get_validate_data.main()
         print('test ratio: %s'%(test_ratio))
         multigraph_infer.main(test_ratio)
-        predict.main(test_ratio)
+        #predict.main(test_ratio)
