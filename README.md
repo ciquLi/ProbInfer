@@ -20,10 +20,7 @@ get_validate_data.py：get test and train data, find stitching points
 multigraph_infer.py：build multigraph, classify candidate paths, process features, reappear hyperpath
 
 7
-predict.py：analyze feature importance, train models, infer paths
-
-8
 regular.py：valley-free principle
 
-9
+8
 main.py
