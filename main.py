@@ -18,7 +18,7 @@ if __name__=="__main__":
 
     #data_preprocessing.main()
 
-    test_ratios = [0.9]
+    test_ratios = [0.3]
     for test_ratio in test_ratios:
         #get_ground_path.main(test_ratio)
         #get_validate_data.main()
